@@ -1,0 +1,2 @@
+Lionel,Messi,10
+Lucio,Reinoso,88
